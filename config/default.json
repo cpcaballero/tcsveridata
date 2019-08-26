@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://tcsveridata:tcsveridata@cluster0-ivxml.mongodb.net/test?retryWrites=true&w=majority"
+}
