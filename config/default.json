@@ -1,4 +1,6 @@
 {
     "mongoURI" : "mongodb+srv://tcsveridata:tcsveridata@cluster0-ivxml.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "tcsveridatatoken"
+    "jwtSecret": "tcsveridatatoken",
+    "githubClientId": "3fc78a47e3eb7c1ecbfb",
+    "githubSecret" : "5bafc91e1adc4ea65d32af939dafefd45c336d54"
 }
